@@ -9,4 +9,6 @@ $template->assign('fav_food', 'pasta');
 
 $template->render('temp');
 
+//this code is cool
+
 ?>
